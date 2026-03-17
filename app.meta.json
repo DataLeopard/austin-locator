@@ -1,0 +1,10 @@
+{
+  "name": "austin-locator",
+  "template": "react-app",
+  "description": "AI-powered apartment locator chatbot for Austin, TX that helps people find neighborhoods to live in using an in-browser SQLite database and smart recommendation engine",
+  "language": "javascript",
+  "category": "tool",
+  "status": "new",
+  "created": "2026-03-16",
+  "author": "App Factory"
+}

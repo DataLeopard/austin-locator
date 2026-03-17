@@ -1,0 +1,25 @@
+{
+  "name": "austin-locator",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AI-powered apartment locator chatbot for Austin, TX - find your perfect neighborhood",
+  "homepage": "https://DataLeopard.github.io/austin-locator",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sql.js": "^1.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "gh-pages": "^6.3.0",
+    "vite": "^6.0.0"
+  }
+}
